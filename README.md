@@ -1,2 +1,5 @@
-# api-medi-lab
-Api fir Medi center lab project
+# medi_center_api
+medi_center_api
+
+>>> status_code Docs
+- https://restfulapi.net/http-status-codes/
